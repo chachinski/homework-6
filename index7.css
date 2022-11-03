@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.first-div,.second-div{
+    height: 1000px;
+    width: 1000px;
+}
+.first-div{
+    background-image: url('./images/download\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.second-div{
+    background-image: url('./images/download\ \(2\).jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
